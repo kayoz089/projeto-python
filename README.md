@@ -5,8 +5,9 @@ Este é um projeto simples de sistema de login desenvolvido em **Python**, utili
 ## 🚀 Funcionalidades
 
 - Cadastro de novos usuários
-- Login com verificação de usuário e senha
-- Armazenamento seguro de dados em banco SQLite
+- Deletar usuários
+- Ver todos os cadastros no terminal
+- Exportar os cadastros para um arquivo .txt
 - Interface simples via terminal (CLI)
 
 ## 🛠 Tecnologias Usadas
